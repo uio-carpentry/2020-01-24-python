@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Plotting and Programming in Python"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "University of Oslo"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "University of Oslo,Vilhelm Bjerknes hus / room 123, Moltke Moes vei 35, Oslo"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "no"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
