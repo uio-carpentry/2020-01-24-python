@@ -35,7 +35,7 @@ flavor: "r"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "Plotting and Programming in Python"
 
 
 #------------------------------------------------------------
@@ -69,8 +69,8 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://github.com/carpentries/workshop-template"
-workshop_site: "https://carpentries.github.io/workshop-template"
+workshop_repo: "https://github.com/swcarpentry/python-novice-gapminder" 
+workshop_site: "http://swcarpentry.github.io/python-novice-gapminder/"
 
 # Surveys.
 pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
