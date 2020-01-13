@@ -28,21 +28,24 @@ for your learners to practice in.
 
 ## Creating a Repository
 
-1.  Log in to GitHub.
+0.  Log in to GitHub.
     (If you do not have an account, you can quickly create one for free.)
     You must be logged in for the remaining steps to work.
+
+1.  If you are not yet a member of uio-carpentry yet:
+    ask carpadmin@swcarpentry.uio.no to invite you as a member: https://github.com/uio-carpentry  
 
 2.  Go to <a href="https://github.com/new/import" target="_blank">GitHub's importer</a>.
 
 3.  Paste the url of this repo as the old repository to clone:
     <https://github.com/carpentries/workshop-template>.
 
-4.  Select the owner for your new repository.
-    (This will probably be you, but may instead be an organization you belong to.)
+4.  Select uio-carpentry as the owner for your new repository.
+    (If needed, it is possible to transfer ownership to uio-carpentry later.)
 
 5.  Choose a name for your workshop website repository.
     This name should have the form `YYYY-MM-DD-site`,
-    e.g., `2016-12-01-miskatonic`,
+    e.g., `2016-12-01-uio`,
     where `YYYY-MM-DD` is the start date of the workshop.
 
 6.  Make sure the repository is public.
@@ -70,7 +73,7 @@ please [get in touch](#getting-and-giving-help).
     which will be at `https://github.com/your_username/YYYY-MM-DD-site`.
     For example,
     if your username is `gvwilson`,
-    the repository's URL will be `https://github.com/gvwilson/2016-12-01-miskatonic`.
+    the repository's URL will be `https://github.com/gvwilson/2016-12-01-uio`.
 
 3.  Ensure you are on the gh-pages branch by clicking on the branch under the drop 
     down in the menu bar (see the note below):
@@ -174,9 +177,9 @@ No description, website, or topics provided. — Edit
 
 Click 'Edit' and add:
 
-1.  A very brief description of your workshop in the "Description" box (e.g., "Miskatonic University workshop, Dec. 2016")
+1.  A very brief description of your workshop in the "Description" box (e.g., "UiO workshop, Dec. 2016")
 
-2.  The URL for your workshop in the "Website" box (e.g., `https://gvwilson.github.io/2016-12-01-miskatonic`)
+2.  The URL for your workshop in the "Website" box (e.g., `https://gvwilson.github.io/2016-12-01-uio`)
 
 This will help people find your website if they come to your repository's home page.
 
